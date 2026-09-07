@@ -1,3 +1,4 @@
-# mein-erstes-github-projekt
-#brauchen wir nicht(leck eier)
-#mein erstes projekt
+## Mein Lieblingsfach
+mein Lieblingsfach ist: sport
+## Mein Ziel
+gezwungen von der Schule
